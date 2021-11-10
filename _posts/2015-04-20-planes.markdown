@@ -1,8 +1,8 @@
 ---
-title:  "Adriana Solis"
-subtitle: "About Me"
-author: "adriana solis"
-avatar: "img/authors/wferr.png"
+title:  "About Me"
+subtitle: "past, present, future"
+author: "Adriana Solis"
+avatar: "img/authors/IMG-2609.png"
 image: "img/a.jpg"
 date:   11-10-2021 14:08:32
 ---

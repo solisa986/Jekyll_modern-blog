@@ -1,6 +1,6 @@
 ---
 title:  "About Me"
-subtitle: "everything you need to know :smile:"
+subtitle: "everything you need to know 🦋"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/a.jpg"
@@ -9,7 +9,7 @@ date:   11-10-2021 14:08:32
 
 ### Adriana Solis
 
-Scroll to see my educational, technical, and personal information :smile:
+Scroll to see my educational, technical, and personal information 😊.
 
 ### Educational Background
 

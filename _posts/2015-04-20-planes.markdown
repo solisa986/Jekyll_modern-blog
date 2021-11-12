@@ -1,15 +1,15 @@
 ---
 title:  "About Me"
-subtitle: "past, present, future"
+subtitle: "everything you need to know :smile:"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/a.jpg"
 date:   11-10-2021 14:08:32
 ---
 
-#### Introduction
+### Adriana Solis
 
-My name is Adriana Solis and I am from Longview, Texas. I currently reside in Meadville, Pennsylvania for my undergraduate studies.
+Scroll to see my educational, technical, and personal information :smile:
 
 ### Educational Background
 
@@ -19,6 +19,6 @@ I graduated from Spring Hill High School in May 2019. During my time at Spring H
 
 My technical background involves data analysis, debugging, GitHub flow framework, linting, and implementing complex programs using Python and Java. I intend to expand on these tools and languages in my future work. Given my course background, I am looking for positions that are in Software Engineering or Data Analysis.
 
-### Personal Background
+### Personal Life
 
 Outside of my life at college, I spend time with friends, drink way too much coffee, and get occasionally attacked by my cat, Frankie. I also currently intern remotely at First Bank of the Lake, a bank in Missouri. This type of work gives me an insight into the mechanisms behind loan processes, data processing, and professional behavior in the workplace. I am also involved in a variety of clubs on campus: International Club as their Secretary, Women in Business and Economics as their Social Chair, Allegheny ESports as their Personal Relations Chair, Allegheny Student Government as a Student Proxy, and Wind Symphony as a member.

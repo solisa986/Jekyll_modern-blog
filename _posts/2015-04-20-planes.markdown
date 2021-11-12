@@ -7,11 +7,11 @@ image: "img/a.jpg"
 date:   11-10-2021 14:08:32
 ---
 
-### Introduction
+#### Introduction
 
 My name is Adriana Solis and I am from Longview, Texas. I currently reside in Meadville, Pennsylvania for my undergraduate studies.
 
-## Educational Background
+### Educational Background
 
 I graduated from Spring Hill High School in May 2019. During my time at Spring Hill, I competed in a variety of competitions for Accounting, CX Debate, Marching Band, and Solo and Ensemble. I am currently attending Allegheny College with an expected 2023 year graduation. I am pursuing a Bachelor of Science in Computer Science and Economics. During my time at Allegheny, I was able to form a variety of professional and technical skills in relation to the field of computer science. I had previously taken courses that added on to my interpersonal professional skills where I learned about the framework and introductory timelines, vernaculars, and format of software engineering. I have also worked on a department-wide project, GatorMiner.
 

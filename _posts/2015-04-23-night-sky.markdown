@@ -1,6 +1,6 @@
 ---
 title:  "Resume"
-subtitle: "In Case You Wanted This Information in a Compact PDF File"
+subtitle: "In Case You Wanted a Compact PDF File"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/d.jpg"

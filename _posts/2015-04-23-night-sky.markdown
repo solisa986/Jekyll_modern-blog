@@ -9,4 +9,4 @@ date:   2015-04-23 12:12:12
 
 ### Resume
 
- {% pdf "/resume/Adriana-Solis-resume.pdf" no_link width=500px height=500px %}
+ {% pdf "/resume/Adriana-Solis-resume.pdf" no_link width=1000px height=1500px %}

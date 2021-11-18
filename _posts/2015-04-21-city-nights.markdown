@@ -7,14 +7,82 @@ image: "img/b.jpg"
 date:   2015-04-21 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Summary
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+This page is dedicated to showcasing the different technical concepts that I have explored during my time at Allegheny College.
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+### Course and Technical Experiences for Completed Courses
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+***Computational Expression - Spring 2020***
+- **Technical Skills learned:**
+  - design, implement, and test algorithms in Java, an object-oriented programming language
+  - how to generate an SSH key
+  - how to write in a markdown file
+  - how to set up and use Git Hub, GitHub actions, Gradle, and Travis CI
+  - fundamental concept of data types, conditional logic, iteration, recursion, exceptions, and graphics programming
+  - how to use single-dimension, multi-dimensional, and extendable arrays to implement graphical applications
+  - design, implementation, use, and testing of software such as Docker, Atom Text Editor, and GatorGrader
+  - basic Linux and Windows terminal commands
+  - computational structures needed to solve problems, produce interactive games, computer-mediated art and music
+  - how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers
+  - complete weekly technical projects that demonstrate the material taught in class that week
+- **Professional Skills learned:**
+  - introduction to computer science and computational thinking
+  - wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing
+  - how to work on projects using the team feature in GitHub
+  - provided oral presentations on the analysis of code and other technical concepts explored in class
+_______________________________________________________________________________
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+***Data Abstraction - Fall 2020***
+- **Technical Skills Learned:**
+  - how to use Git Hub, Gradle, Travic CI, and GradleGrader for team-based assignments
+  - how to write more sophisticatedly in markdown
+  - how to efficiently store and retrieve digital data through the implementation, use, and evaluation of computational structures
+  - how to create data structures and algorithms through the use of the Java programming language
+  - how to test the accuracy of a program through test cases
+  - how to use the fundamentals of nodes to create mapping functions for complex programs
+  - how to create a results table that displays the timing results for a program
+  - how to implement sorting algorithms, such as BubbleSort and InsertionSort
+  - how to use the concepts of a linked list to create Singly Linked Lists and Doubly Linked Lists
+  - how to use the concepts explored in class to create my own program, which is an encrypted collection of ciphers that masks user's input
+- **Professional Skills Learned:**
+  - how to utilize Git Hub Team to work on certain assignments without any merge conflicts
+  - how to communicate with other members of the class during our class-wide collaboration on certain assignments
+  - how to properly dictate the analysis of the code, test suites, and results from running the program into a markdown file
+  - how to set up and abide by technical deadlines during the implementation of my group project
+_______________________________________________________________________________
+
+***Algorithm Analysis - Spring 2021***
+- **Technical Skills Learned:**
+- **Professional Skills Learned:**
+_______________________________________________________________________________
+
+***Software Engineering - Spring 2021***
+- **Technical Skills Learned:**
+- **Professional Skills Learned:**
+_______________________________________________________________________________
+
+***Discrete Structures - Fall 2021***
+- **Technical Skills Learned:**
+- **Professional Skills Learned:**
+_______________________________________________________________________________
+
+***Computer Security - Fall 2021***
+- **Technical Skills Learned:**
+- **Professional Skills Learned:**
+_______________________________________________________________________________
+
+***Software Innovation I - Fall 2021***
+- **Technical Skills Learned:**
+- **Professional Skills Learned:**
+
+
+### Planned Courses Summary for Spring 2022:
+
+
+***Web Development - Spring 2022***
+- **Summary:**
+_______________________________________________________________________________
+
+***Software Innovation II - Spring 2022***
+- **Summary:**

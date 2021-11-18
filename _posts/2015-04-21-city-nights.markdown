@@ -9,7 +9,7 @@ date:   2015-04-21 12:12:12
 
 ### Summary
 
-This page is dedicated to showcasing the different technical concepts that I have explored during my time at Allegheny College.
+This page is dedicated to showcasing the different technical and professional concepts that I have explored during my time at Allegheny College.
 
 ### Course and Technical Experiences for Completed Courses
 
@@ -183,7 +183,7 @@ _______________________________________________________________________________
 _______________________________________________________________________________
 
 
-### Planned Courses Summary for Spring 2022:
+### Planned Courses for Spring 2022:
 
 - Web Development
 - Software Innovation II

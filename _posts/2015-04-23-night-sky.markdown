@@ -9,4 +9,4 @@ date:   2015-04-23 12:12:12
 
 ### Resume
 
-[Download Resume Here](https://github.com/solisa986/Jekyll_modern-blog/raw/gh-pages/resume/Adriana-Solis-resume.pdf)
+ {% pdf "/resume/Adriana-Solis-resume.pdf" %}

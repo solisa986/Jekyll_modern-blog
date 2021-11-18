@@ -31,7 +31,9 @@ This page is dedicated to showcasing the different technical concepts that I hav
   - wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing
   - how to work on projects using the team feature in GitHub
   - provided oral presentations on the analysis of code and other technical concepts explored in class
+
 _______________________________________________________________________________
+
 
 ***Data Abstraction - Fall 2020***
 - **Technical Skills Learned:**
@@ -50,27 +52,38 @@ _______________________________________________________________________________
   - how to communicate with other members of the class during our class-wide collaboration on certain assignments
   - how to properly dictate the analysis of the code, test suites, and results from running the program into a markdown file
   - how to set up and abide by technical deadlines during the implementation of my group project
+
+
 _______________________________________________________________________________
+
 
 ***Algorithm Analysis - Spring 2021***
 - **Technical Skills Learned:**
 - **Professional Skills Learned:**
+
 _______________________________________________________________________________
+
 
 ***Software Engineering - Spring 2021***
 - **Technical Skills Learned:**
 - **Professional Skills Learned:**
+
 _______________________________________________________________________________
+
 
 ***Discrete Structures - Fall 2021***
 - **Technical Skills Learned:**
 - **Professional Skills Learned:**
+
 _______________________________________________________________________________
+
 
 ***Computer Security - Fall 2021***
 - **Technical Skills Learned:**
 - **Professional Skills Learned:**
+
 _______________________________________________________________________________
+
 
 ***Software Innovation I - Fall 2021***
 - **Technical Skills Learned:**

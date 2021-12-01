@@ -14,25 +14,30 @@ This page is dedicated to showcasing the different technical and professional co
 ### Course and Technical Experiences for Completed Courses
 
 <details>
-<summary>***Computational Expression - Spring 2020***</summary>
-- **Technical Skills learned:**
-  - design, implement, and test algorithms in Java, an object-oriented programming language
-  - how to generate an SSH key
-  - how to use Slack
-  - how to write in a markdown file
-  - how to set up and use Git Hub, GitHub actions, Gradle, and Travis CI
-  - fundamental concept of data types, conditional logic, iteration, recursion, exceptions, and graphics programming
-  - how to use single-dimension, multi-dimensional, and extendable arrays to implement graphical applications
-  - design, implementation, use, and testing of software such as Docker, Atom Text Editor, and GatorGrader
-  - basic Linux and Windows terminal commands
-  - computational structures needed to solve problems, produce interactive games, computer-mediated art and music
-  - how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers
-  - complete weekly technical projects that demonstrate the material taught in class that week
-- **Professional Skills learned:**
-  - introduction to computer science and computational thinking
-  - wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing
-  - how to work on projects using the team feature in GitHub
-  - provided oral presentations on the analysis of code and other technical concepts explored in class
+<summary><b>Computational Expression - Spring 2020</b></summary>
+<ul>
+<li><b>Technical Skills learned:</b></li>
+<ul>
+<li>design, implement, and test algorithms in Java, an object-oriented programming language</li>
+<li>how to generate an SSH key</li>
+<li>how to use Slack</li>
+<li>how to write in a markdown file</li>
+<li>how to set up and use Git Hub, GitHub actions, Gradle, and Travis CI</li>
+<li>fundamental concept of data types, conditional logic, iteration, recursion, exceptions, and graphics programming
+<li>how to use single-dimension, multi-dimensional, and extendable arrays to implement graphical applications</li>
+<li>design, implementation, use, and testing of software such as Docker, Atom Text Editor, and GatorGrader</li>
+<li>basic Linux and Windows terminal commands</li>
+<li>computational structures needed to solve problems, produce interactive games, computer-mediated art and music</li>
+<li>how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers</li>
+<li>complete weekly technical projects that demonstrate the material taught in class that week</li>
+<ul>
+<li><b>Professional Skills learned:</b></li>
+<ul>
+<li>introduction to computer science and computational thinking</li>
+<li>wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing</li>
+<li>how to work on projects using the team feature in GitHub</li>
+<li>provided oral presentations on the analysis of code and other technical concepts explored in class</li>
+<ul>
 </details>
 
 _______________________________________________________________________________

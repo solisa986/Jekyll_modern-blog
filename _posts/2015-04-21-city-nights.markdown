@@ -30,14 +30,14 @@ This page is dedicated to showcasing the different technical and professional co
 <li>computational structures needed to solve problems, produce interactive games, computer-mediated art and music</li>
 <li>how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers</li>
 <li>complete weekly technical projects that demonstrate the material taught in class that week</li>
-<ul>
+</ul>
 <li><b>Professional Skills learned:</b></li>
 <ul>
 <li>introduction to computer science and computational thinking</li>
 <li>wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing</li>
 <li>how to work on projects using the team feature in GitHub</li>
 <li>provided oral presentations on the analysis of code and other technical concepts explored in class</li>
-<ul>
+</ul>
 </details>
 
 _______________________________________________________________________________

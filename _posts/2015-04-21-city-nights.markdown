@@ -28,8 +28,9 @@ This page is dedicated to showcasing the different technical and professional co
 <li>computational structures needed to solve problems, produce interactive games, computer-mediated art and music</li>
 <li>how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers</li>
 <li>complete weekly technical projects that demonstrate the material taught in class that week</li>
+</ul>
 
-<p><b>Professional Skills learned:</b></p>
+<ul><b>Professional Skills learned:</b></ul>
 <li>introduction to computer science and computational thinking</li>
 <li>wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing</li>
 <li>how to work on projects using the team feature in GitHub</li>
@@ -39,8 +40,7 @@ This page is dedicated to showcasing the different technical and professional co
 
 _______________________________________________________________________________
 
-<details>
-<summary>***Data Abstraction - Fall 2020***</summary>
+***Data Abstraction - Fall 2020***
 - **Technical Skills Learned:**
   - how to use Git Hub, Gradle, Travic CI, and GatorGrader for team-based assignments
   - how to write more sophisticatedly in markdown

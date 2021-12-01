@@ -15,9 +15,7 @@ This page is dedicated to showcasing the different technical and professional co
 
 <details>
 <summary><b>Computational Expression - Spring 2020</b></summary>
-<ul>
-<li><b>Technical Skills learned:</b></li>
-<ul>
+<ul><b>Technical Skills learned:</b>
 <li>design, implement, and test algorithms in Java, an object-oriented programming language</li>
 <li>how to generate an SSH key</li>
 <li>how to use Slack</li>
@@ -31,9 +29,7 @@ This page is dedicated to showcasing the different technical and professional co
 <li>how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers</li>
 <li>complete weekly technical projects that demonstrate the material taught in class that week</li>
 </ul>
-<ul>
-<li><b>Professional Skills learned:</b></li>
-<ul>
+<ul><b>Professional Skills learned:</b>
 <li>introduction to computer science and computational thinking</li>
 <li>wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing</li>
 <li>how to work on projects using the team feature in GitHub</li>

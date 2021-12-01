@@ -13,7 +13,8 @@ This page is dedicated to showcasing the different technical and professional co
 
 ### Course and Technical Experiences for Completed Courses
 
-***Computational Expression - Spring 2020***
+<details>
+<summary>***Computational Expression - Spring 2020***</summary>
 - **Technical Skills learned:**
   - design, implement, and test algorithms in Java, an object-oriented programming language
   - how to generate an SSH key
@@ -32,13 +33,14 @@ This page is dedicated to showcasing the different technical and professional co
   - wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing
   - how to work on projects using the team feature in GitHub
   - provided oral presentations on the analysis of code and other technical concepts explored in class
+</details>
 
 _______________________________________________________________________________
 
-
-***Data Abstraction - Fall 2020***
+<details>
+<summary>***Data Abstraction - Fall 2020***</summary>
 - **Technical Skills Learned:**
-  - how to use Git Hub, Gradle, Travic CI, and GradleGrader for team-based assignments
+  - how to use Git Hub, Gradle, Travic CI, and GatorGrader for team-based assignments
   - how to write more sophisticatedly in markdown
   - how to efficiently store and retrieve digital data through the implementation, use, and evaluation of computational structures
   - how to create data structures and algorithms through the use of the Java programming language
@@ -53,6 +55,7 @@ _______________________________________________________________________________
   - how to communicate with other members of the class during our class-wide collaboration on certain assignments
   - how to properly dictate the analysis of the code, test suites, and results from running the program into a markdown file
   - how to set up and abide by technical deadlines during the implementation of my group project
+</details>
 
 
 _______________________________________________________________________________

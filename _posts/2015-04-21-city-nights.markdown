@@ -31,6 +31,7 @@ This page is dedicated to showcasing the different technical and professional co
 <li>how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers</li>
 <li>complete weekly technical projects that demonstrate the material taught in class that week</li>
 </ul>
+<ul>
 <li><b>Professional Skills learned:</b></li>
 <ul>
 <li>introduction to computer science and computational thinking</li>

@@ -15,26 +15,79 @@ This page is dedicated to showcasing the different technical and professional co
 
 <details>
 <summary>Computational Expression - Spring 2020</summary>
-| Technical Skills Learned:                                                                                                        | Professional Skills Learned:                                                                            |
-| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| design, implement, and test algorithms in Java, an object-oriented programming language                                          | introduction to computer science and computational thinking                                             |
-| how to generate an SSH key                                                                                                       | wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing |
-| how to use Slack                                                                                                                 | how to work on projects using the team feature in GitHub                                                |
-| how to write in a markdown file                                                                                                  | provided oral presentations on the analysis of code and other technical concepts explored in class      |
-| how to set up and use Git Hub, GitHub actions, Gradle, and Travis CI                                                             |                                                                                                         |
-| fundamental concept of data types, conditional logic, iteration, recursion, exceptions, and graphics programming                 |                                                                                                         |
-| how to use single-dimension, multi-dimensional, and extendable arrays to implement graphical applications                        |                                                                                                         |
-| design, implementation, use, and testing of software such as Docker, Atom Text Editor, and GatorGrader                           |                                                                                                         |
-| basic Linux and Windows terminal commands                                                                                        |                                                                                                         |
-| computational structures needed to solve problems, produce interactive games, computer-mediated art and music                    |                                                                                                         |
-| how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers |                                                                                                         |
-| complete weekly technical projects that demonstrate the material taught in class that week                                       |                                                                                                         |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Technical Skills Learned:</th>
+    <th class="tg-0pky">Professional Skills Learned:</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">design, implement, and test algorithms in Java, an object-oriented programming language</td>
+    <td class="tg-0pky">introduction to computer science and computational thinking<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">how to generate an SSH key</td>
+    <td class="tg-0pky">wrote weekly progress reports that thoroughly explained the mechanisms included in my technical writing</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">how to use Slack</td>
+    <td class="tg-0pky">how to work on projects using the team feature in GitHub</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">how to set up and use Git Hub, GitHub actions, Gradle, and Travis CI</td>
+    <td class="tg-0lax">provided oral presentations on the analysis of code and other technical concepts explored in class</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">fundamental concept of data types, conditional logic, iteration, recursion, exceptions, and graphics programming</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">how to use single-dimension, multi-dimensional, and extendable arrays to implement graphical applications</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">design, implementation, use, and testing of software such as Docker, Atom Text Editor, and GatorGrader</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">basic Linux and Windows terminal commands</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">computational structures needed to solve problems, produce interactive games, computer-mediated art and music</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">how to organize and document a program's source code so that it effectively communicates with the intended users and maintainers</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">complete weekly technical projects that demonstrate the material taught in class that week</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">how to write in markdown format</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 </details>
 
 _______________________________________________________________________________
 <details>
 <summary>Data Abstraction - Fall 2020<summary>
+</details>
 Technical Skills Learned:
 how to use Git Hub, Gradle, Travic CI, and GatorGrader for team-based assignments
 how to write more sophisticatedly in markdown

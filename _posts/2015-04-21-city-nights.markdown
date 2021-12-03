@@ -14,7 +14,7 @@ This page is dedicated to showcasing the different technical and professional co
 ### Course and Technical Experiences for Completed Courses
 
 <details>
-<summary>Computational Expression Spring 2020</summary>
+<summary><b>Computational Expression Spring 2020</b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -88,7 +88,7 @@ _______________________________________________________________________________
 
 
 <details>
-<summary>Data Abstraction Fall 2020</summary>
+<summary><b>Data Abstraction Fall 2020</b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

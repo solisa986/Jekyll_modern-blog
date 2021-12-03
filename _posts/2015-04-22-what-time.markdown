@@ -16,14 +16,14 @@ This page will provide an in-depth description of the different projects I have 
 <summary>Frequency Analysis Word Cloud</summary>
 
 sample info.
-</details>
 _______________________________________________________________________________
+</details>
 <details>
 <summary>Frequencies of Categories of Words</summary>
 
 sample info.
-</details>
 _______________________________________________________________________________
+</details>
 </details>
 
 _______________________________________________________________________________

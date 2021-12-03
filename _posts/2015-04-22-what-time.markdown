@@ -1,6 +1,6 @@
 ---
 title:  "Projects"
-subtitle: "All About GatorMiner"
+subtitle: "All Out Technical Creativity"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/c.jpg"

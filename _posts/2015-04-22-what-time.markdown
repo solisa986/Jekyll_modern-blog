@@ -11,16 +11,28 @@ date:   2015-04-22 12:12:12
 This page will provide an in-depth description of the different projects I have worked on and contributed to during my time at Allegheny College. Make sure to check out the demos page for a slide-by-slide demonstration of the different projects!
 
 <details>
-<summary><b>GatorMiner</b></summary>
-<details>
-<summary>Frequency Analysis Word Cloud</summary>
+<summary><b><u>GatorMiner</u></b></summary>
+<br>
 
-sample info.
+<br>
+This project was developed during my Software Engineering course in the Spring of 2021. This is an 'automated text-mining tool written in Python to measure the technical responsibility of students in computer science courses, being used to analyze students' markdown reflection documents and five questions survey based on Natural Language Processing in the Department of Computer Science at Allegheny College'.
+<details>
+<summary><u>Frequency Analysis Word Cloud</u></summary>
+<br>
+
+<br>
+This feature was added to GatorMiner through the implementation of the Git Hub Issue Tracker. Using a team of 'developors' and a pre-assigned 'Scrum leader', we were able to use the collected data in the words frewuency analysis and pass it into a package responsible for creating the word cloud. Following the Scrum-Agile framework and other concepts explored in our course, we held and attended 3 development meetings a week. In these meetings, we would discuss any technical challenges we were experiencing and what parts of the code were completed. Our scrum leader would assign us tasks and deadlines for these tasks in order to make sure that we would meet our feature deadline. Once we finished implementing our feature, we would issue a pull request so that the Professor could review our work and provide comments on our source code. In order to make sure that there were not any merge conflicts or segments in our code that would issue a failing build, a Technical Leader was assigned to comment any changes that were needed.
 </details>
 <details>
-<summary>Frequencies of Categories of Words</summary>
+<summary><u>Frequencies of Categories of Words</u></summary>
+<br>
 
-sample info.
+<br>
+This feature was also added to GatorMiner through the implementation of the Git Hub Issue Tracker.
+</details>
+
+<details>
+<summary><u>Pytest Plugin</u></summary>
 </details>
 </details>
 
@@ -66,14 +78,6 @@ _______________________________________________________________________________
 
 <details>
 <summary><b>Schedule Maker!</b></summary>
-
-sample info.
-</details>
-
-_______________________________________________________________________________
-
-<details>
-<summary><b>Pytest Plugin</b></summary>
 
 sample info.
 </details>

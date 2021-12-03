@@ -14,18 +14,16 @@ This page will provide an in-depth description of the different projects I have 
 <summary><b>GatorMiner</b></summary>
 <details>
 <summary>Frequency Analysis Word Cloud</summary>
-sample info.
-</details>
-
 _______________________________________________________________________________
 
-<details>
-<summary>Frequencies of Categories of Words</summary>
 sample info.
 </details>
+<details>
+<summary>Frequencies of Categories of Words</summary>
+_______________________________________________________________________________
 
- _______________________________________________________________________________
-
+sample info.
+</details>
 </details>
 
 _______________________________________________________________________________

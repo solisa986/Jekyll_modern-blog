@@ -33,26 +33,25 @@ _______________________________________________________________________________
 For my final project for Data Abstraction, my group decided to create a program that would give the user the option to choose between 3 different ciphers in order to 'send' encrypted messages. Since we wanted to ensure that the plaintext provided by the user would not be exposed during the encryption process, we decided to implement a feature into our program that would hide the user's keystrokes with an asterick. The 3 different ciphers are the Caesarian Cipher, the Vigenere Cipher, and a unique blended cipher (Caesarian and Vigenere Cipher are combined to form one cipher). The user then has the option to display their decrypted text from the ciphertext.
 <br>
 
-
-<b>Breakdown: Ceasarian Cipher</b>
-<br>___________________________________________________<br>
-
-sample info.
-
-
-<b>Breakdown: Vigenere Cipher</b>
-<br>___________________________________________________<br>
+<br>
+<b><u>Breakdown: Ceasarian Cipher</u></b>
 
 sample info.
+<br>
 
-
-
-<b>Breakdown: Hybrid Cipher</b>
-<br>___________________________________________________<br>
+<br>
+<b><u>Breakdown: Vigenere Cipher</u></b>
 
 sample info.
+<br>
 
+<br>
+<b><u>Breakdown: Hybrid Cipher</u></b>
 
+sample info.
+<br>
+
+<br>
 </details>
 
 _______________________________________________________________________________

@@ -1,0 +1,28 @@
+---
+title:  "Demos"
+subtitle: "Walkthroughs to accompany the Projects page"
+author: "Adriana Solis"
+avatar: "img/authors/adriana.jpg"
+image: "img/e.jpg"
+date:   2015-04-22 12:12:12
+---
+
+### Computer Science Project Demos
+
+This page shows the walkthroughs for my different projects. Feel free to look at the Projects page for an in-depth explanation of the different features/programs!
+
+### GatorMiner - Frequency Analysis Word Cloud
+
+{% pdf "http://img.labnol.org/di/PowerPoint.ppt" %}
+
+### GatorMiner - Frequencies of Categories of Words
+
+{% pdf "http://img.labnol.org/di/PowerPoint.ppt" %}
+
+### GatorMiner - Pytest Plugin
+
+{% pdf "http://img.labnol.org/di/PowerPoint.ppt" %}
+
+### Final Project - "Cipher for Spies"
+
+{% pdf "http://img.labnol.org/di/PowerPoint.ppt" %}

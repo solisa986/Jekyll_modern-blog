@@ -1,0 +1,14 @@
+---
+title:  "Pictures"
+subtitle: "Just for Fun"
+author: "Adriana Solis"
+avatar: "img/authors/adriana.jpg"
+image: "img/f.jpg"
+date:   2015-04-22 12:12:12
+---
+
+### Pictures
+
+This is a fun page that includes pictures from my time in clubs, activities, or with friends and family.
+
+{% pdf "http://img.labnol.org/di/PowerPoint.ppt" %}

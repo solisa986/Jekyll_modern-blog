@@ -11,35 +11,45 @@ date:   2015-04-22 12:12:12
 This page will provide an in-depth description of the different projects I have worked on and contributed to during my time at Allegheny College. Make sure to check out the demos page for a slide-by-slide demonstration of the different projects!
 
 <details>
-<summary><b><u>GatorMiner</u></b></summary>
+<summary>Click for more information: <b><u>GatorMiner</u></b></summary>
+<br>
+This project was developed during my Software Engineering course in the Spring of 2021. This is an 'automated text-mining tool written in Python to measure the technical responsibility of students in computer science courses, being used to analyze students' markdown reflection documents and five questions survey based on Natural Language Processing in the Department of Computer Science at Allegheny College'. As a part of my course requirements, I participated in adding the following features to this text-mining tool:
 <br>
 
 <br>
-This project was developed during my Software Engineering course in the Spring of 2021. This is an 'automated text-mining tool written in Python to measure the technical responsibility of students in computer science courses, being used to analyze students' markdown reflection documents and five questions survey based on Natural Language Processing in the Department of Computer Science at Allegheny College'.
 <details>
-<summary><u>Frequency Analysis Word Cloud</u></summary>
-<br>
+<summary>Click for more information: <u>Frequency Analysis Word Cloud</u></summary>
 <br>
 <b>Description:</b>
 This feature was added to GatorMiner through the implementation of the Git Hub Issue Tracker. Using a team of 'developors' and a pre-assigned 'Scrum leader', we were able to use the collected data in the words frewuency analysis and pass it into a package responsible for creating the word cloud. Following the Scrum-Agile framework and other concepts explored in our course, we held and attended 3 development meetings a week. In these meetings, we would discuss any technical challenges we were experiencing and what parts of the code were completed. Our scrum leader would assign us tasks and deadlines for these tasks in order to make sure that we would meet our feature deadline. Once we finished implementing our feature, we would issue a pull request so that the Professor could review our work and provide comments on our source code. In order to make sure that there were not any merge conflicts or segments in our code that would issue a failing build, a Technical Leader was assigned to comment any changes that were needed.
+<br>
+
+<br>
+For a walkthrough of what this feature does, make sure to check out the demos page!
 
 </details>
 <details>
-<summary><u>Frequencies of Categories of Words</u></summary>
+<summary>Click for more information: <u>Frequencies of Categories of Words</u></summary>
 <br>
 <br>
-This feature was also added to GatorMiner through the implementation of the Git Hub Issue Tracker.
+This feature was also added to GatorMiner through the implementation of the Git Hub Issue Tracker. Given that this tool would be used by the Department of Computer Science to analyze class assignments and reflections, my team decided that it would be convenient to 'add the most frequent categories of words to the frequency analysis page to get a broader view of what is most frequently referenced in the assignments'. We decided to use the same Scrum-Agile framework as our previous issue, where my assigned role was in the development team. My role was to update our sprint log, write the test cases, and help another developer with the implementation of the interface. Given that most of this issue included some AI sophistications, our feature had a longer timeframe than our previous one. Nonetheless, I continuously worked on debugging our feature, consulting with other developers about their progress to update the spring log, and worked with another developer about the strategy for implementing the interface until test cases could be added.
+<br>
+
+<br>
+For a walkthrough of what this feature does, make sure to check out the demos page!
+
 </details>
 
 <details>
-<summary><u>Pytest Plugin</u></summary>
+<summary>Click for more information: <u>Pytest Plugin</u></summary>
+
 </details>
 </details>
 
 _______________________________________________________________________________
 
 <details>
-<summary><b>Cipher for Spies</b></summary>
+<summary>Click for more information: <u><b>Cipher for Spies</b></u></summary>
 <br>
 <br>
 <b>Description:</b>
@@ -47,7 +57,7 @@ For my final project for Data Abstraction, my group decided to create a program 
 <br>
 
 <br>
-<b><u>Breakdown: Ceasarian Cipher</u></b>
+<b>Click for more information: <u>Breakdown: Ceasarian Cipher</u></b>
 <br>
 
 <br>
@@ -55,7 +65,7 @@ sample info.
 <br>
 
 <br>
-<b><u>Breakdown: Vigenere Cipher</u></b>
+<b>Click for more information: <u>Breakdown: Vigenere Cipher</u></b>
 <br>
 
 <br>
@@ -63,7 +73,7 @@ sample info.
 <br>
 
 <br>
-<b><u>Breakdown: Hybrid Cipher</u></b>
+<b>Click for more information: <u>Breakdown: Hybrid Cipher</u></b>
 <br>
 
 <br>
@@ -76,7 +86,7 @@ sample info.
 _______________________________________________________________________________
 
 <details>
-<summary><b>Schedule Maker!</b></summary>
+<summary>Click for more information: <u><b>Schedule Maker!</b></u></summary>
 
 sample info.
 </details>

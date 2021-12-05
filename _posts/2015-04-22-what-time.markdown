@@ -75,7 +75,8 @@ For a walkthrough of what <a href="https://github.com/allegheny-computer-science
 <br>
 
 <br>
-<b>Click for more information: <u>Breakdown: Ceasarian Cipher</u></b>
+<details>
+<summary>Click for more information: <b><u>Caesarian Cipher</u></b></summary
 <br>
 
 <br>
@@ -83,7 +84,10 @@ This cipher was the one that I wrote for my team project. This program was writt
 <br>
 
 <br>
-<b>Click for more information: <u>Breakdown: Vigenere Cipher</u></b>
+</details>
+
+<details>
+<summary>Click for more information: <b><u>Vigenere Cipher</u></b></summary>
 <br>
 
 <br>
@@ -91,7 +95,10 @@ This cipher was written by another team member, but I worked with them on debugg
 <br>
 
 <br>
-<b>Click for more information: <u>Breakdown: Hybrid Cipher</u></b>
+</details>
+
+<details>
+<summary>Click for more information: <b><u>Java Cipher</u></b></summary>
 <br>
 
 <br>
@@ -99,6 +106,7 @@ For this cipher, since the two ciphers we would be combining already had their o
 <br>
 
 <br>
+</details>
 </details>
 
 _______________________________________________________________________________

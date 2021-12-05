@@ -76,7 +76,7 @@ For a walkthrough of what <a href="https://github.com/allegheny-computer-science
 
 <br>
 <details>
-<summary>Click for more information: <b><u>Caesarian Cipher</u></b></summary
+<summary>Click for more information: <b><u>Caesarian Cipher</u></b></summary>
 <br>
 
 <br>

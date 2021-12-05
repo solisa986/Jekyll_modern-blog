@@ -25,7 +25,7 @@ This feature, which was written in Python, was added to GatorMiner through the i
 <br>
 
 <br>
-For a walkthrough of what <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/85">this feature</a> does, make sure to check out the demos page!
+For a walkthrough of what <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/85"><b>this feature</b></a> does, make sure to check out the demos page!
 <br>
 
 <br>
@@ -38,7 +38,7 @@ This feature, written in Python, was also added to GatorMiner through the implem
 <br>
 
 <br>
-For a walkthrough of what <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/51">this feature</a> does, make sure to check out the demos page!
+For a walkthrough of what <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/51"><b>this feature</b></a> does, make sure to check out the demos page!
 <br>
 
 <br>
@@ -52,7 +52,7 @@ For the last project of my Software Engineering course, we were tasked with a va
 <br>
 
 <br>
-For a walkthrough of what <a href="https://github.com/allegheny-computer-science-203-s2021/PytestPlugin-Team7">this feature</a> does, make sure to check out the demos page!
+For a walkthrough of what <a href="https://github.com/allegheny-computer-science-203-s2021/PytestPlugin-Team7"><b>this feature</b></a> does, make sure to check out the demos page!
 <br>
 
 <br>
@@ -71,7 +71,7 @@ For my final project for Data Abstraction, my group decided to create a program 
 
 <br>
 
-For a walkthrough of what <a href="https://github.com/allegheny-computer-science-101-f2020/project-crew">this feature</a> does, make sure to check out the demos page!
+For a walkthrough of what <a href="https://github.com/allegheny-computer-science-101-f2020/project-crew"><b>this program</b></a> does, make sure to check out the demos page!
 <br>
 
 <br>
@@ -95,18 +95,10 @@ This cipher was written by another team member, but I worked with them on debugg
 <br>
 
 <br>
-For this cipher, since the two ciphers we would be combining already had their own program files, we decided the easiest course of action would be to call on the two programs inside the main file. This cipher would first encrypt the text 
+For this cipher, since the two ciphers we would be combining already had their own program files, we decided the easiest course of action would be to call on the two programs inside the main file. This cipher would first encrypt the text using the Vigenere Cipher and then would further encrypt the text using the Caesarian cipher. This would return a doubly encrypted cipher text to the user. For the decryption method, it would utilize the decryption method for the Caesarian cipher and the Vigenere Cipher. Since this 'Java Cipher' depends on the accuracy on two pre-declared ciphers, then we incorporated this into the test cases that were made for this cipher.
 <br>
 
 <br>
-</details>
-
-_______________________________________________________________________________
-
-<details>
-<summary>Click for more information: <u><b>Schedule Maker!</b></u></summary>
-
-sample info.
 </details>
 
 _______________________________________________________________________________

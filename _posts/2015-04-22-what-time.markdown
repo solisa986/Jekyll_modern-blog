@@ -21,11 +21,11 @@ This project was developed during my Software Engineering course in the Spring o
 <summary>Click for more information: <u>Frequency Analysis Word Cloud</u></summary>
 <br>
 <b>Description:</b>
-This feature was added to GatorMiner through the implementation of the Git Hub Issue Tracker. Using a team of 'developors' and a pre-assigned 'Scrum leader', we were able to use the collected data in the words frewuency analysis and pass it into a package responsible for creating the word cloud. Following the Scrum-Agile framework and other concepts explored in our course, we held and attended 3 development meetings a week. In these meetings, we would discuss any technical challenges we were experiencing and what parts of the code were completed. Our scrum leader would assign us tasks and deadlines for these tasks in order to make sure that we would meet our feature deadline. Once we finished implementing our feature, we would issue a pull request so that the Professor could review our work and provide comments on our source code. In order to make sure that there were not any merge conflicts or segments in our code that would issue a failing build, a Technical Leader was assigned to comment any changes that were needed.
+This feature, which was written in Python, was added to GatorMiner through the implementation of the Git Hub Issue Tracker. Using a team of 'developors' and a pre-assigned 'Scrum leader', we were able to use the collected data in the words frewuency analysis and pass it into a package responsible for creating the word cloud. Following the Scrum-Agile framework and other concepts explored in our course, we held and attended 3 development meetings a week. In these meetings, we would discuss any technical challenges we were experiencing and what parts of the code were completed. Our scrum leader would assign us tasks and deadlines for these tasks in order to make sure that we would meet our feature deadline. Once we finished implementing our feature, we would issue a pull request so that the Professor could review our work and provide comments on our source code. In order to make sure that there were not any merge conflicts or segments in our code that would issue a failing build, a Technical Leader was assigned to comment any changes that were needed.
 <br>
 
 <br>
-For a walkthrough of what [this feature](https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/85) does, make sure to check out the demos page!
+For a walkthrough of what <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/85">this feature</a> does, make sure to check out the demos page!
 <br>
 
 <br>
@@ -34,11 +34,11 @@ For a walkthrough of what [this feature](https://github.com/Allegheny-Ethical-CS
 <summary>Click for more information: <u>Frequencies of Categories of Words</u></summary>
 <br>
 <b>Description:</b>
-This feature was also added to GatorMiner through the implementation of the Git Hub Issue Tracker. Given that this tool would be used by the Department of Computer Science to analyze class assignments and reflections, my team decided that it would be convenient to 'add the most frequent categories of words to the frequency analysis page to get a broader view of what is most frequently referenced in the assignments'. We decided to use the same Scrum-Agile framework as our previous issue, where my assigned role was in the development team. My role was to update our sprint log, write the test cases, and help another developer with the implementation of the interface. Given that most of this issue included some AI sophistications, our feature had a longer timeframe than our previous one. Nonetheless, I continuously worked on debugging our feature, consulting with other developers about their progress to update the spring log, and worked with another developer about the strategy for implementing the interface until test cases could be added.
+This feature, written in Python, was also added to GatorMiner through the implementation of the Git Hub Issue Tracker. Given that this tool would be used by the Department of Computer Science to analyze class assignments and reflections, my team decided that it would be convenient to 'add the most frequent categories of words to the frequency analysis page to get a broader view of what is most frequently referenced in the assignments'. We decided to use the same Scrum-Agile framework as our previous issue, where my assigned role was in the development team. My role was to update our sprint log, write the test cases, and help another developer with the implementation of the interface. Given that most of this issue included some AI sophistications, our feature had a longer timeframe than our previous one. Nonetheless, I continuously worked on debugging our feature, consulting with other developers about their progress to update the spring log, and worked with another developer about the strategy for implementing the interface until test cases could be added.
 <br>
 
 <br>
-For a walkthrough of what [this feature](https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/51) does, make sure to check out the demos page!
+For a walkthrough of what <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/51">this feature</a> does, make sure to check out the demos page!
 <br>
 
 <br>
@@ -48,11 +48,11 @@ For a walkthrough of what [this feature](https://github.com/Allegheny-Ethical-CS
 <summary>Click for more information: <u>Pytest Plugin</u></summary>
 <br>
 <b>Description:</b>
-For the last project of my Software Engineering course, we were tasked with a variety of different options, one of which included creating a new Pytest Plugin. My team decided to adopt the Scrum-Agile framework for this assignment. We decided to add on to an existing plugin, where we added a new feature to this plugin. As I was elected as the Scrum Leader for this project, I assigned preliminary tasks and deadlines to the development team. The original plugin made the pytest results report in a Markdown table format. Our new feature will link these results to a given email address and send the report in a Markdown file to a user's email address. Given that we work forking another plugin, the majority of our first meetings dealt with 'cleaning up' the original plugin and updating the dependencies files. Once these tasks were finished, we held another meeting where I assigned the final round of tasks to the development team. My role as Scrum Leader mainly meant that I was delegating tasks and planning our meetings, but I also helped with the debugging, linting, and strategy behind the test cases. Given that our plugin was a forked repository, unlike the other features we implemented in GatorMiner, we decided not to use the Git Hub Issue Tracker strategy. Instead, we used Git Hub teams and provided communication if we were working on the feature in order to avoid merge conflicts.
+For the last project of my Software Engineering course, we were tasked with a variety of different options, one of which included creating a new Pytest Plugin, written in Python. My team decided to adopt the Scrum-Agile framework for this assignment. We decided to add on to an existing plugin, where we added a new feature to this plugin. As I was elected as the Scrum Leader for this project, I assigned preliminary tasks and deadlines to the development team. The original plugin made the pytest results report in a Markdown table format. Our new feature will link these results to a given email address and send the report in a Markdown file to a user's email address. Given that we work forking another plugin, the majority of our first meetings dealt with 'cleaning up' the original plugin and updating the dependencies files. Once these tasks were finished, we held another meeting where I assigned the final round of tasks to the development team. My role as Scrum Leader mainly meant that I was delegating tasks and planning our meetings, but I also helped with the debugging, linting, and strategy behind the test cases. Given that our plugin was a forked repository, unlike the other features we implemented in GatorMiner, we decided not to use the Git Hub Issue Tracker strategy. Instead, we used Git Hub teams and provided communication if we were working on the feature in order to avoid merge conflicts.
 <br>
 
 <br>
-For a walkthrough of what [this feature](https://github.com/allegheny-computer-science-203-s2021/PytestPlugin-Team7) does, make sure to check out the demos page!
+For a walkthrough of what <a href="https://github.com/allegheny-computer-science-203-s2021/PytestPlugin-Team7">this feature</a> does, make sure to check out the demos page!
 <br>
 
 <br>
@@ -70,11 +70,16 @@ For my final project for Data Abstraction, my group decided to create a program 
 <br>
 
 <br>
+
+For a walkthrough of what <a href="https://github.com/allegheny-computer-science-101-f2020/project-crew">this feature</a> does, make sure to check out the demos page!
+<br>
+
+<br>
 <b>Click for more information: <u>Breakdown: Ceasarian Cipher</u></b>
 <br>
 
 <br>
-sample info.
+This cipher was the one that I wrote for my team project. This program was written in Java and does the following for the encryption of the plaintext: assigns an integer value to each letter of the alphabet, finds out what the value of the shift is, finds out what character needs to be replaced, and returns the encrypted ciphertext. For the decryption method, it does the inverse of the encryption methods. In order to test the accuracy of this cipher, I also added applicable test cases that checked for accuracy given different inputs.
 <br>
 
 <br>
@@ -82,7 +87,7 @@ sample info.
 <br>
 
 <br>
-sample info.
+This cipher was written by another team member, but I worked with them on debugging and reformatting the source code. This program was written in Java and does the following for the encryption of the plaintext: strip all of the characters except the ones in the alphabet, convert this into uppercase, use the keyword repeatedly to create a string the same length as the plaintext, then continuously replace the characters until we get the ciphertext. For the decryption part of the program, the methods for encryption are put in reverse, which will return the plain text. To test for the accuracy of the encryption method, we also implemented test cases for this program.
 <br>
 
 <br>
@@ -90,7 +95,7 @@ sample info.
 <br>
 
 <br>
-sample info.
+For this cipher, since the two ciphers we would be combining already had their own program files, we decided the easiest course of action would be to call on the two programs inside the main file. This cipher would first encrypt the text 
 <br>
 
 <br>

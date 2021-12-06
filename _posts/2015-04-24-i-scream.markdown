@@ -3,7 +3,7 @@ title:  "Demos"
 subtitle: "Walkthroughs to accompany the Projects page"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
-image: "img/e.jpg"
+image: "img/c.jpg"
 date:   2015-04-22 12:12:12
 ---
 

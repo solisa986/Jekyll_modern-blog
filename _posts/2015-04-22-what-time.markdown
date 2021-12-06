@@ -3,7 +3,7 @@ title:  "Projects"
 subtitle: "All Out Technical Creativity"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
-image: "img/c.jpg"
+image: "img/e.jpg"
 date:   2015-04-22 12:12:12
 ---
 

@@ -3,7 +3,7 @@ title:  "Pictures"
 subtitle: "Just for Fun"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
-image: "img/f.jpg"
+image: "img/f.png"
 date:   2015-04-22 12:12:12
 ---
 

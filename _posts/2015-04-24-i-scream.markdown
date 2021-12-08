@@ -5,8 +5,8 @@ author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/c.jpg"
 date:   2015-04-22 12:12:12
-pres_local: "/img/Gator_Miner.ppt"
-pres_local_two: "/img/Pytest_Plugin.ppt"
+pres_local: "/img/Gator_Miner1.pptx"
+pres_local_two: "/img/Pytest_Plugin.pptx"
 ---
 
 ### Computer Science Project Demos

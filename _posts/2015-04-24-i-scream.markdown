@@ -17,7 +17,7 @@ This page shows the walkthroughs for my different projects. Feel free to look at
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-<iframe src="https://onedrive.live.com/embed?cid=7776C9D269D98AC7&amp;resid=7776C9D269D98AC7%21175853&amp;authkey=AFFqYJ13Mf3H_eU&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=7776C9D269D98AC7&amp;resid=7776C9D269D98AC7%21175853&amp;authkey=AFFqYJ13Mf3H_eU&amp;em=2&amp;wdAr=1.7777777777777777" width="700px" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 </div>
 
 ### GatorMiner - Pytest Plugin

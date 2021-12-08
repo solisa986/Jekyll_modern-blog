@@ -17,17 +17,12 @@ This page shows the walkthroughs for my different projects. Feel free to look at
 .responsive-wrap iframe{ max-width: 100%;}
 </style>
 <div class="responsive-wrap">
-  <iframe src="https://allegheny0-my.sharepoint.com/personal/solisa_allegheny_edu/_layouts/15/Doc.aspx?sourcedoc={9b4c9fb6-a9db-4b38-9d93-6e9fc8d1b2c7}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=7776C9D269D98AC7&amp;resid=7776C9D269D98AC7%21175853&amp;authkey=AFFqYJ13Mf3H_eU&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 </div>
 
 ### GatorMiner - Pytest Plugin
 
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-  <iframe src="https://allegheny0-my.sharepoint.com/personal/solisa_allegheny_edu/_layouts/15/Doc.aspx?sourcedoc={e6bd8c3c-6b85-4a52-995e-cc7335dc20c2}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-</div>
+{% pdf "/img/Gator_Miner1.ppsx" no_link %}
 
 ### Final Project - "Cipher for Spies"
 

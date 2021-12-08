@@ -13,11 +13,11 @@ This page shows the walkthroughs for my different projects. Feel free to look at
 
 ### GatorMiner - Frequency Analysis Word Cloud & Frequencies of Categories of Words
 
-{% pdf "http://img.labnol.org/di/PowerPoint.ppt" %}
+{% pdf "/img/Gator_Miner.ppt" no_link %}
 
 ### GatorMiner - Pytest Plugin
 
-{% pdf "http://img.labnol.org/di/PowerPoint.ppt" %}
+{% pdf "/img/Pytest_Plugin.ppt" no_link %}
 
 ### Final Project - "Cipher for Spies"
 

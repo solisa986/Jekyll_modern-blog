@@ -4,7 +4,7 @@ subtitle: "everything you need to know 🦋"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/d.jpg"
-date:   11-10-2021 14:08:32
+date:   11-10-2021
 ---
 
 ### Adriana Solis

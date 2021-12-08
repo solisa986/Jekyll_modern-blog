@@ -5,8 +5,6 @@ author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/c.jpg"
 date:   2015-04-22 12:12:12
-pres_local: "/img/Gator_Miner1.pptx"
-pres_local_two: "/img/Pytest_Plugin.pptx"
 ---
 
 ### Computer Science Project Demos
@@ -15,11 +13,11 @@ This page shows the walkthroughs for my different projects. Feel free to look at
 
 ### GatorMiner - Frequency Analysis Word Cloud & Frequencies of Categories of Words
 
-{% pdf {{ page.pres_local }} no_link %}
+{% pdf "/img/Gator_Miner1.pptx" no_link %}
 
 ### GatorMiner - Pytest Plugin
 
-{% pdf {{ page.pres_local_two }} no_link %}
+{% pdf "/img/Pytest_Plugin.pptx" no_link %}
 
 ### Final Project - "Cipher for Spies"
 

@@ -22,7 +22,7 @@ This page shows the walkthroughs for my different projects. Feel free to look at
 
 ### GatorMiner - Pytest Plugin
 
-{% pdf "/img/Gator_Miner1.ppsx" no_link %}
+{% pdf "/img/Gator_Miner1.pptx" no_link %}
 
 ### Final Project - "Cipher for Spies"
 

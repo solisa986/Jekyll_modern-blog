@@ -4,7 +4,7 @@ subtitle: "All Out Technical Creativity"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/e.jpg"
-date:   2015-04-22 12:12:12
+date:   12-06-2021
 ---
 
 ### Computer Science Projects

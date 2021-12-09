@@ -1,10 +1,10 @@
 ---
-title:  "Computer Science Experiences"
+title:  "Course Experience"
 subtitle: "Technical and Course-Related"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/b.jpeg"
-date:   11-08-2021
+date:   12-08-2021
 ---
 
 ### Summary

@@ -12,7 +12,7 @@ date:   11-10-2021
 Click on the different headings to see my educational, technical, and personal information 😊.
 
 <details>
-<summary><b>Educational Background</b></summary>
+<summary>Click here for more information: <b>Educational Background</b></summary>
 <br>
 
 <br>
@@ -22,7 +22,7 @@ I graduated from Spring Hill High School in May 2019. During my time at Spring H
 _______________________________________________________________________________
 
 <details>
-<summary><b>Technical Background</b></summary>
+<summary>Click here for more information: <b>Technical Background</b></summary>
 <br>
 
 <br>
@@ -32,7 +32,7 @@ My technical background involves data analysis, debugging, GitHub flow framework
 _______________________________________________________________________________
 
 <details>
-<summary><b>Personal Life</b></summary>
+<summary>Click here for more information: <b>Personal Life</b></summary>
 <br>
 
 <br>

@@ -1,5 +1,5 @@
 ---
-title:  "Experiences"
+title:  "Computer Science Experiences"
 subtitle: "Technical and Course-Related"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
@@ -9,9 +9,9 @@ date:   2015-04-21 12:12:12
 
 ### Summary
 
-This page is dedicated to showcasing the different technical and professional concepts that I have explored during my time at Allegheny College.
+This page is dedicated to showcasing the different technical and professional concepts that I have explored during my time at Allegheny College in the Computer Science Department.
 
-### Course and Technical Experiences for Completed Courses
+### Course and Technical Experiences for Computer Science Courses
 
 <details>
 <summary><b>Computational Expression Spring 2020</b></summary>

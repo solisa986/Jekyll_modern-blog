@@ -1,14 +1,38 @@
 ---
-title:  "Pictures"
-subtitle: "Just for Fun"
+title:  "Clubs and Other Experiences"
+subtitle: "Extracurriculars and Beyond!"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/f.jpg"
-date:   2015-04-22 12:12:12
+date:   2021-04-22 11:01:37
 ---
 
-### Pictures
+### Clubs
 
-This is a fun page that includes pictures from my time in clubs, activities, or with friends and family.
+international club
+women in business and economics
+allegheny esports
+allegheny student government proxy
+wind symphony member
 
-{% pdf "http://img.labnol.org/di/PowerPoint.ppt" %}
+### Job Experiences
+
+internship fbol
+accounting internship (mom)
+
+### Professional Experiences
+
+econ games 2020-2021
+student chair in the finance and facilities committee
+women in economics symposium
+technical leader for the department of computer science
+
+### Awards and Scholarships
+
+hsf scholar
+band scholarship recipient
+accounting uil state medalist
+
+### Outside Extracurricular Activities
+
+secretary of music & co-director for instruments for St. Matthew Church

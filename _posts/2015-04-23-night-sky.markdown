@@ -3,7 +3,7 @@ title:  "Resume"
 subtitle: "In Case You Wanted a Compact PDF File"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
-image: "img/a.jpeg"
+image: "img/a.jpg"
 date:   12-09-2021
 ---
 

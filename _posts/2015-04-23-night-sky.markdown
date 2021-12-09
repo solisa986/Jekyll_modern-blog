@@ -3,7 +3,7 @@ title:  "Extracurriculars"
 subtitle: "Clubs and Other Experiences"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
-image: "img/f.jpg"
+image: "img/a.jpg"
 date:   2021-04-22 11:01:37
 ---
 

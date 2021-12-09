@@ -4,7 +4,7 @@ subtitle: "Technical and Course-Related"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/b.jpeg"
-date:   2015-04-21 12:12:12
+date:   11-08-2021
 ---
 
 ### Summary

@@ -46,7 +46,17 @@ This course explores the concepts for measurement and analysis of national incom
 
 <br>
 <i>Technical Skills Learned:</i>
-- rudimentary
+<ul>
+<li>how to utilize course concepts to provide an analysis of different readings</li>
+<li>how to make rudimentary graphs</li>
+<li>how to choose relevant and reputable sources for research</li>
+<li>how to use Prezi, PowerPoint, Google Slides, Google Docs, Google Sheets, The Remind App, and Google Classroom features to complete course assignments</li>
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li>how to collaborate with other students to create presentations about course concepts</li>
+<li>how to properly present assignments to the Professor and other students</li>
+</ul>
 </details>
 
 _______________________________________________________________________________

@@ -19,12 +19,18 @@ This page is dedicated to showcasing the different technical and professional co
 <summary>Click here for more information: <b><u>Intro to Micro</u></b></summary>
 <br>
 course info here.
+<br>
+
+<br>
 </details>
 
 <details>
 <summary>Click here for more information: <b><u>Intro to Macro</u></b></summary>
 <br>
 course info here.
+<br>
+
+<br>
 </details>
 
 _______________________________________________________________________________
@@ -36,6 +42,9 @@ _______________________________________________________________________________
 <summary>Click here for more information: <b><u>Macroeconomic Theory</u></b></summary>
 <br>
 course info.
+<br>
+
+<br>
 </details>
 
 <details>

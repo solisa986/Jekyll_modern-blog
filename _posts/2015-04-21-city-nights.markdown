@@ -296,11 +296,19 @@ This course gave an introduction to methods of recording, classifying, and summa
 <br>
 <i>Technical Skills Learned:</i>
 <ul>
-<li></li>
+<li>how to do basic accounting concepts</li>
+<li>how to construct a balance sheet</li>
+<li>how to construct an income statement</li>
+<li>how to record different types of payments</li>
+<li>how to classify different types of transactions</li>
+<li>how to do a balance of payments analysis</li>
+<li>how to fix accounting errors</li>
 </ul>
 <i>Professional Skills Learned:</i>
 <ul>
-<li></li>
+<li>how to write a summary report</li>
+<li>how to use the correct syntax for financial statements</li>
+<li>how to present information to the Professor and other classmates</li>
 </ul>
 </details>
 

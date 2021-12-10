@@ -13,6 +13,18 @@ This page is dedicated to showcasing the different technical and professional co
 
 ### Course and Technical Experiences for Computer Science Courses
 
+**Fall 2019**
+
+course
+Course
+Course
+
+
+_______________________________________________________________________________
+
+
+**Spring 2020**
+
 <details>
 <summary><b>Computational Expression Spring 2020</b></summary>
 <style type="text/css">
@@ -87,6 +99,8 @@ This page is dedicated to showcasing the different technical and professional co
 _______________________________________________________________________________
 
 
+**Fall 2020**
+
 <details>
 <summary><b>Data Abstraction Fall 2020</b></summary>
 <style type="text/css">
@@ -149,6 +163,8 @@ _______________________________________________________________________________
 
 _______________________________________________________________________________
 
+
+**Spring 2021**
 
 <details>
 <summary><b>Algorithm Analysis Spring 2021</b></summary>
@@ -344,6 +360,9 @@ _______________________________________________________________________________
 </details>
 
 _______________________________________________________________________________
+
+
+**Fall 2021**
 
 <details>
 <summary><b>Discrete Structures Fall 2021</b></summary>

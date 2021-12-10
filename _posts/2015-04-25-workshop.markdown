@@ -221,14 +221,20 @@ For a description of this event, please refer to the previous event. During my t
 
 ### Outside Extracurricular Activities
 
-Outside of academic, club, and work involvements, I am able to participate in a lot of different activities. Though most of these activities involve my family, the couch, and a really good B-rated movie, I still find time for my other passions. Most of my outside passions center around one interest: music. For more information on the following positions, please click on the name of the position.
+Outside of academic, club, and work involvements, I am able to participate in a lot of different activities. Though most of these activities involve my family, the couch, and a really good B-rated movie, I still find time for my other passion: music. For more information on the following positions, please click on the name of the position.
 
 <details>
 <summary><details>
 <summary>Click here for more information: <b><u>Secretary of Choirs</u></b></summary>
 <br>
 <b>Description:</b>
-info here.
+This position was offered to me following the retirement of the previous secretary. My duties consist of the following:
+<ul>
+<li>ask choir for the song list for Sunday mass</li>
+<li>send the list of songs to the director and other members of the choir</li>
+<li>help to put the needed songs on a powerpoint</li>
+<li>type out the lyrics to new songs as needed</li>
+</ul>
 <br>
 
 <br>
@@ -238,7 +244,15 @@ info here.
 <summary>Click here for more information: <b><u>Co-Director of Musicians</u></b></summary>
 <br>
 <b>Description:</b>
-info here.
+This positions was offered to me after years of being a member of the choir. My duties consist of the following:
+<ul>
+<li>training new musicians</li>
+<li>writing out parts for the musicians</li>
+<li>translating between different keys for different instruments</li>
+<li>host additional practices for the musicians, as needed</li>
+<li>provide insight into the structure of the musical score for the mass</li>
+<li>converse with other people in the department regarding choir personnel, logistics, and music</li>
+</ul
 <br>
 
 <br>

@@ -1,6 +1,6 @@
 ---
 title:  "Course Experience"
-subtitle: "Technical and Course-Related"
+subtitle: "Technical, Professional and More!"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/b.jpeg"
@@ -9,21 +9,34 @@ date:   12-08-2021
 
 ### Summary
 
-This page is dedicated to showcasing the different technical and professional concepts that I have explored during my time at Allegheny College in the Computer Science Department.
+This page is dedicated to showcasing the different technical and professional concepts that I have explored during my time at Allegheny College for both of my majors, Computer Science and Economics.
 
-### Course and Technical Experiences for Computer Science Courses
+### Course and Technical Experiences for Major Courses
 
 **Fall 2019**
 
-course
-Course
-Course
+<details>
+<summary>Click here for more information: <b><u>Intro to Micro</u></b></summary>
+<br>
+course info here.
+</details>
 
+<details>
+<summary>Click here for more information: <b><u>Intro to Macro</u></b></summary>
+<br>
+course info here.
+</details>
 
 _______________________________________________________________________________
 
 
 **Spring 2020**
+
+<details>
+<summary>Click here for more information: <b><u>Macroeconomic Theory</u></b></summary>
+<br>
+course info.
+</details>
 
 <details>
 <summary>Click here for more information: <b><u>Computational Expression Spring 2020</u></b></summary>
@@ -102,6 +115,15 @@ _______________________________________________________________________________
 **Fall 2020**
 
 <details>
+<summary>Click here for more information: <b><u>Microeconomic Theory</u></b></summary>
+<br>
+course info.
+<br>
+
+<br>
+</details>
+
+<details>
 <summary>Click here for more information: <b><u>Data Abstraction Fall 2020</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -165,6 +187,33 @@ _______________________________________________________________________________
 
 
 **Spring 2021**
+
+<details>
+<summary>Click here for more information: <b><u>Human Resource Management</u></b></summary>
+<br>
+course info.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>International Economics</u></b></summary>
+<br>
+course info.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Fund of Financial Accounting</u></b></summary>
+<br>
+course info.
+<br>
+
+<br>
+</details>
 
 <details>
 <summary>Click here for more information: <b><u>Algorithm Analysis Spring 2021</u></b></summary>
@@ -362,6 +411,24 @@ _______________________________________________________________________________
 **Fall 2021**
 
 <details>
+<summary>Click here for more information: <b><u>International Business</u></b></summary>
+<br>
+course info.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Fraud and Business Ethics</u></b></summary>
+<br>
+course info.
+<br>
+
+<br>
+</details>
+
+<details>
 <summary>Click here for more information: <b><u>Discrete Structures Fall 2021</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -554,3 +621,4 @@ _______________________________________________________________________________
 - Web Development
 - Software Innovation II
 - Computer Science Junior Seminar
+- Economic Statistics

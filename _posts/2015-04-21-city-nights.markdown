@@ -26,7 +26,7 @@ _______________________________________________________________________________
 **Spring 2020**
 
 <details>
-<summary><b>Computational Expression Spring 2020</b></summary>
+<summary>Click here for more information: <b><u>Computational Expression Spring 2020</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -102,7 +102,7 @@ _______________________________________________________________________________
 **Fall 2020**
 
 <details>
-<summary><b>Data Abstraction Fall 2020</b></summary>
+<summary>Click here for more information: <b><u>Data Abstraction Fall 2020</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -167,7 +167,7 @@ _______________________________________________________________________________
 **Spring 2021**
 
 <details>
-<summary><b>Algorithm Analysis Spring 2021</b></summary>
+<summary>Click here for more information: <b><u>Algorithm Analysis Spring 2021</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -253,11 +253,8 @@ _______________________________________________________________________________
 </table>
 </details>
 
-_______________________________________________________________________________
-
-
 <details>
-<summary><b>Software Engineering Spring 2021</b></summary>
+<summary>Click here for more information: <b><u>Software Engineering Spring 2021</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -365,7 +362,7 @@ _______________________________________________________________________________
 **Fall 2021**
 
 <details>
-<summary><b>Discrete Structures Fall 2021</b></summary>
+<summary>Click here for more information: <b><u>Discrete Structures Fall 2021</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -443,11 +440,8 @@ _______________________________________________________________________________
 </table>
 </details>
 
-_______________________________________________________________________________
-
-
 <details>
-<summary><b>Computer Security Fall 2021</b></summary>
+<summary>Click here for more information: <b><u>Computer Security Fall 2021</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -509,11 +503,8 @@ _______________________________________________________________________________
 </table>
 </details>
 
-_______________________________________________________________________________
-
-
 <details>
-<summary><b>Software Innovation I Fall 2021</b></summary>
+<summary>Click here for more information: <b><u>Software Innovation I Fall 2021</u></b></summary>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

@@ -269,19 +269,39 @@ This course does an examination of organizational policies and practices and the
 <details>
 <summary>Click here for more information: <b><u>International Economics</u></b></summary>
 <br>
-course info.
+<b>Description:</b>
+This course is a study of international economic relationships. The bases of an international division of labor, international financial arrangements and agencies, balance of payments problems, trade policies of nations, trade and development, regional economic integration, and the multi-national corporation are some of the topics that were discussed.
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+<ul>
+<li>how to analyze complex graphs and economic equations</li>
+<li>how to utilize GoogleMeets for class meetings</li>
+<li>how to utilize Canvas for course assignments, quizzes, and exams</li>
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li>how to present course information to the Professor and other classmates</li>
+</ul>
 </details>
 
 <details>
 <summary>Click here for more information: <b><u>Fund of Financial Accounting</u></b></summary>
 <br>
-course info.
+<b>Description:</b>
+This course gave an introduction to methods of recording, classifying, and summarizing financial data. Though this course was taken during my time at Allegheny, these concepts were also explored in classes taken during my time in high school. Those relevant courses were Accounting 1, Accounting 2, and Accounting 3.
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+<ul>
+<li></li>
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li></li>
+</ul>
 </details>
 
 <details>

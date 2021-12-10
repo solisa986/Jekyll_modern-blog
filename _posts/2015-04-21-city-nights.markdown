@@ -164,10 +164,20 @@ _______________________________________________________________________________
 <summary>Click here for more information: <b><u>Microeconomic Theory</u></b></summary>
 <br>
 <b>Description:</b>
-This course builds off of the introductory concepts explored in Intro to Micro. In this course,
+This course builds off of the introductory concepts explored in Intro to Micro. This includes the study of theories of consumer and firm behavior, and economic efficiency and welfare. The analysis of markets, resources, and general equilibrium is also made during this course.
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+<ul>
+<li>how to interpret intermediate level graphs and equations</li>
+<li>how to write graphs</li>
+<li>how to utilize GoogleMeets for class meetings</li>
+<li>how to utilize Canvas for course assignments</li>
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li>how to present to the Professor and other students in the class</li>
 </details>
 
 <details>

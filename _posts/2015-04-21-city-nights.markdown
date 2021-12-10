@@ -67,10 +67,21 @@ _______________________________________________________________________________
 <details>
 <summary>Click here for more information: <b><u>Macroeconomic Theory</u></b></summary>
 <br>
-course info.
+<b>Description:</b>
+This course serves to build off of the introductory topic explored in 'Intro to Micro' by showing the development of theories for macroeconomic concepts. These theories concerned the determination of output, prices, and employment. These concepts are further explored through the hypotheses upon which these theories are founded, as well as their implications for policy programs.
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+<ul>
+<li>how to analyze and write intermediary graphs and economic equations</li>
+<li>how to distinguish between different types of economic graphs</li>
+<li>how to utilize GoogleMeets for class
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li>how to present concepts to the Professor and other members of the class</li>
+</ul>
 </details>
 
 <details>

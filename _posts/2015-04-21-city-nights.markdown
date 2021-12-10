@@ -249,10 +249,21 @@ _______________________________________________________________________________
 <details>
 <summary>Click here for more information: <b><u>Human Resource Management</u></b></summary>
 <br>
-course info.
+<b>Description:</b>
+This course does an examination of organizational policies and practices and their influences on employee behavior. The individual, team, and organizational effects of recruiting, selection, training, development, compensation, and labor relations strategies are analyzed. The influence of employment law and the psychological aspects of the workplace are discussed.
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+<ul>
+<li>how to analyze social behavior in relation to economic principles</li>
+<li>how to demonstrate understanding of course concepts through daily quizzes</li>
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li>an expansion of professional connections through the daily presentations from alumni</li>
+<li>how to expand my professional profile</li>
+</ul>
 </details>
 
 <details>

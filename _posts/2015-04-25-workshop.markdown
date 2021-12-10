@@ -113,7 +113,7 @@ This club's purpose is to provide instances for individuals to learn about the f
 <li>write out the meeting minutes</li>
 </ul>
 <br>
-As this club meets as new opportunities arise, the majority of our events centered around meetings with Alumni. 
+As this club meets as new opportunities arise, the majority of our events centered around meetings with Alumni.
 <br>
 
 <br>
@@ -127,7 +127,7 @@ Outside of Allegheny, I was able to have a variety of different work experiences
 <summary>Click here for more information: <b><u>GGL Lender Intern</u></b></summary>
 <br>
 <b>Description:</b>
-work info here.
+This is a remote banking position where I am currently able to work with in different departments in the lending industry. Through this internship, I was able to gain a first-hand experience of the small-business lending environment. I also had the opportunity to have different mentors, have a professional connection with executives within the lending division, have paid cyber safety training, work with other team members, and participate in government guaranteed lending programs. Throughout my time at this company, I was able to work in the PPP (Paycheck Protection Program) department, the Document Manager department, the Customer Service department, the Insurance department, and the Forgiveness department.
 <br>
 
 <br>
@@ -137,7 +137,7 @@ work info here.
 <summary>Click here for more information: <b><u>Technical Leader</u></b></summary>
 <br>
 <b>Description:</b>
-work info here.
+This position is a campus position where I am currently able to technical support to other students on their course assignments. Through this position, I am able to interact with my Professors and other technical leaders in a professional environment while discussing sensitive information. I have the opportunity to work with students (ranging from a variety of different course level computer science classes) to offer assistance on class readings, class lab assignments, class practical assignments, and class final projects. I am also able utilize Discord features (such as voice channels) to help out students virtually in cases where my office hours are conducted remotely.
 <br>
 
 <br>

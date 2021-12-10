@@ -18,19 +18,35 @@ This page is dedicated to showcasing the different technical and professional co
 <details>
 <summary>Click here for more information: <b><u>Intro to Micro</u></b></summary>
 <br>
-course info here.
+<b>Description:</b>
+This course introduced the topic of market behavior in regard to individuals, households, and firms. This topic was further supported by the concepts of opportunity cost, the derivation of supply and demand curves, the analysis of markets in relation to the scarcity of resources, the analysis of various market structures, the impact of government controls on the economy, and the measurement of social costs and benefits.
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+<ul>
+<li>how to make rudimentary graphs</li>
+<li>how to write and interpret basic economic equations</li>
+<li>how to relate course concepts to real-world examples</li>
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li>how to write an in-depth analysis of a topic using economic principles, statistical and relevant data, proper citations, and APA style format</li>
+<li>how to interact with other students to create different projects</li>
+<li>how to present projects to the Professor and other classmates while adhering to a predetermined rubric</li>
+</ul>
 </details>
 
 <details>
 <summary>Click here for more information: <b><u>Intro to Macro</u></b></summary>
 <br>
-course info here.
+<b>Description:</b>
+This course explores the concepts for measurement and analysis of national income, employment, and price level. The topics used to explore these concepts are unemployment, savings and investment, inflation, economic growth, the banking system, business cycles, and the short-run and long-run effects of monetary and fiscal policy. This course was not taken during my time at Allegheny. Since I was able to take this class during my time at my high school under the Advanced Placement program, then my test scores were able to satisfy the requirements for the course.
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+- rudimentary
 </details>
 
 _______________________________________________________________________________

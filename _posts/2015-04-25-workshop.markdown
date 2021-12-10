@@ -193,7 +193,7 @@ This scholarship, which stands for the Hispanic Scholarship Fund, is a scholar p
 <summary>Click here for more information: <b><u>Band Scholarship</u></b></summary>
 <br>
 <b>Description:</b>
-description here.
+This scholarship was awarded to me during my senior year of high school. This award was presented by the Spring Hill Band Boosters, where the awardees were people in band who demonstrated continued participance, leadership, and merit.
 <br>
 
 <br>
@@ -203,7 +203,7 @@ description here.
 <summary>Click here for more information: <b><u>UIL Texas State Medalist in Accounting</u></b></summary>
 <br>
 <b>Description:</b>
-details here.
+
 <br>
 
 <br>

@@ -106,11 +106,14 @@ Throughout my time on this club, I have worked with the club President to provid
 <summary>Click here for more information: <b><u>Pre-Law Club</u></b></summary>
 <br>
 <b>Description:</b>
-position:
-handle emails
-meetings
-provide minutes
-alumni meetings
+This club's purpose is to provide instances for individuals to learn about the field of law and explore potential careers in law. My position was as Secretary, where my duties consisted of the following:
+<ul>
+<li>handle the club email account</li>
+<li>attend general and board meetings</li>
+<li>write out the meeting minutes</li>
+</ul>
+<br>
+As this club meets as new opportunities arise, the majority of our events centered around meetings with Alumni. 
 <br>
 
 <br>

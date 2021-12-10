@@ -15,7 +15,6 @@ This page serves to show the variety of different clubs, job experiences, profes
 
 During my time at Allegheny, I was able to join a variety of clubs that contributed to my varied interests. For most of these clubs, I was a long-standing member, but there are a certain few that I was given the opportunity to become more than a member. For these clubs, I was elected to the board, where I was able to provide a variety of different events, meetings, and activities to the community at Allegheny. For more information on my role in the club, please click on the club name for more information.
 
-Clubs:
 <details>
 <summary>Click here for more information: <b><u>International Club at Allegheny</u></b></summary>
 <br>
@@ -143,16 +142,6 @@ This position is a campus position where I am currently able to technical suppor
 <br>
 </details>
 
-<details>
-<summary>Click here for more information: <b><u>Accounting Intern</u></b></summary>
-<br>
-<b>Description:</b>
-work info here.
-<br>
-
-<br>
-</details>
-
 ### Professional Experiences
 
 Throughout my time at Allegheny, I was able to participate in a lot of different events and other experiences. These opportunities helped me to solidify my commitment to my respective majors, as well as allow me to be better involved in the community of professional individuals that I will be joining once I graduate. For more information on the information listed below, please click on the name of the event.
@@ -161,7 +150,7 @@ Throughout my time at Allegheny, I was able to participate in a lot of different
 <summary>Click here for more information: <b><u>The Econ Games 2020-2021</u></b></summary>
 <br>
 <b>Description:</b>
-event info.
+The Econ Games is a rigorous economics competition for undergraduate students, where the goal is to incorporate topics and skills from Economics to solve real-world problems. For this event, I participated in a team to solve a predetermined 'real-world' problem. We looked through hundreds of data files and sheets to create a solution to this problem. Since this event was online for this year, our team also had to record our analysis of the data virtually.
 <br>
 
 <br>

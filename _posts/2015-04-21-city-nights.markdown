@@ -535,10 +535,21 @@ This course introduces the issues and strategies that should be considered in th
 <details>
 <summary>Click here for more information: <b><u>Fraud and Business Ethics</u></b></summary>
 <br>
-course info.
+<b>Description:</b>
+This course will explore the elements of theories about fraud, the role of whistleblowers, internal and external controls, the characteristics of fraudsters and victim organizations as well as different fraud schemes.
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+<ul>
+<li>what the proper protocol is to avoid fraud in different settings</li>
+<li>what different internal control procedures are</li>
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li>how to present an relevant topic to the Professor and other classmates</li>
+<li>how to report different types of fraud</li>
+</ul>
 </details>
 
 <details>

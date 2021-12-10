@@ -178,6 +178,7 @@ This course builds off of the introductory concepts explored in Intro to Micro. 
 <i>Professional Skills Learned:</i>
 <ul>
 <li>how to present to the Professor and other students in the class</li>
+</ul>
 </details>
 
 <details>

@@ -7,9 +7,13 @@ image: "img/f.jpg"
 date:   12-05-2021
 ---
 
+### Summary
+
+This page serves to show the variety of different clubs, job experiences, professional experiences, awards, scholarships, and other extracurriculars that I participated in from May 2019 to present.
+
 ### Clubs
 
-During my time at Allegheny, I was able to join a variety of clubs that contributed to my varied interests. For most of these clubs, I was a long-standing member, but there are a certain few that I was given the opportunity to become more than a member. For these clubs, I was elected to the board, where I was able to provide a variety of different events, meetings, and activities to the community at Allegheny. For more information on my role in the club, please click on the club name for more information :smile:.
+During my time at Allegheny, I was able to join a variety of clubs that contributed to my varied interests. For most of these clubs, I was a long-standing member, but there are a certain few that I was given the opportunity to become more than a member. For these clubs, I was elected to the board, where I was able to provide a variety of different events, meetings, and activities to the community at Allegheny. For more information on my role in the club, please click on the club name for more information.
 
 Clubs:
 <details>
@@ -60,19 +64,6 @@ position responsibiliies:
 </details>
 
 <details>
-<summary>Click here for more information: <b><u>Allegheny Student Government (Proxy Senator)</u></b></summary>
-<br>
-<b>Description:</b>
-position:
-- attend asg general meetings as needed
-- provide feedback on constituent concerns/needs
-- vote on matters presented to the cabinet of asg
-<br>
-
-<br>
-</details>
-
-<details>
 <summary>Click here for more information: <b><u>Pre-Law Club</u></b></summary>
 <br>
 <b>Description:</b>
@@ -91,7 +82,7 @@ position:
 Outside of Allegheny, I was able to have a variety of different work experiences. Though the following positions do not document the total amount of positions I have held, they are the positions that are most pertinent to my chosen field of studies.
 
 <details>
-<summary>Click here for more information: <b><u>GGL Lender Intern at First Bank of the Lake</u></b></summary>
+<summary>Click here for more information: <b><u>GGL Lender Intern</u></b></summary>
 <br>
 <b>Description:</b>
 work info here.
@@ -101,7 +92,7 @@ work info here.
 </details>
 
 <details>
-<summary>Click here for more information: <b><u>Technical Leader for the Department of Computer Science at Allegheny College</u></b></summary>
+<summary>Click here for more information: <b><u>Technical Leader</u></b></summary>
 <br>
 <b>Description:</b>
 work info here.
@@ -111,7 +102,7 @@ work info here.
 </details>
 
 <details>
-<summary>Click here for more information: <b><u>Intern at Unlimited Cabinets and Doors</u></b></summary>
+<summary>Click here for more information: <b><u>Accounting Intern</u></b></summary>
 <br>
 <b>Description:</b>
 work info here.
@@ -135,7 +126,7 @@ event info.
 </details>
 
 <details>
-<summary>Click here for more information: <b><u>Finance and Facilities Committee - Student Representative</u></b></summary>
+<summary>Click here for more information: <b><u>Finance and Facilities Committee</u></b></summary>
 <br>
 <b>Description:</b>
 committee info here.
@@ -168,7 +159,7 @@ details here.
 </details>
 
 <details>
-<summary>Click here for more information: <b><u>Band Scholarship - May 2019</u></b></summary>
+<summary>Click here for more information: <b><u>Band Scholarship</u></b></summary>
 <br>
 <b>Description:</b>
 description here.
@@ -178,7 +169,7 @@ description here.
 </details>
 
 <details>
-<summary>Click here for more information: <b><u>UIL Texas State Medalist in Accounting - May 2019</u></b></summary>
+<summary>Click here for more information: <b><u>UIL Texas State Medalist in Accounting</u></b></summary>
 <br>
 <b>Description:</b>
 details here.
@@ -188,7 +179,7 @@ details here.
 </details>
 
 <details>
-<summary>Click here for more information: <b><u>UIL Texas State Participant for CX Debate - May 2019</u></b></summary>
+<summary>Click here for more information: <b><u>UIL Texas State Participant for CX Debate</u></b></summary>
 <br>
 <b>Description:</b>
 details here.
@@ -203,7 +194,7 @@ Outside of academic, club, and work involvements, I am able to participate in a 
 
 <details>
 <summary><details>
-<summary>Click here for more information: <b><u>Secretary of Choirs for St. Matthew Church</u></b></summary>
+<summary>Click here for more information: <b><u>Secretary of Choirs</u></b></summary>
 <br>
 <b>Description:</b>
 info here.
@@ -213,18 +204,7 @@ info here.
 </details>
 
 <details>
-<summary>Click here for more information: <b><u>Co-Director of Musicians for St. Matthew's Church</u></b></summary>
-<br>
-<b>Description:</b>
-info here.
-<br>
-
-<br>
-</details>
-
-<details>
-<summary><details>
-<summary>Click here for more information: <b><u>Wind Symphony - Member</u></b></summary>
+<summary>Click here for more information: <b><u>Co-Director of Musicians</u></b></summary>
 <br>
 <b>Description:</b>
 info here.

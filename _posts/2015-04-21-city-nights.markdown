@@ -510,10 +510,26 @@ _______________________________________________________________________________
 <details>
 <summary>Click here for more information: <b><u>International Business</u></b></summary>
 <br>
-course info.
+<b>Description:</b>
+This course introduces the issues and strategies that should be considered in the process of competing in foreign markets. This is through the major concepts that business executives and economists use in discussing the dynamics of the global economy. Through case studies and class discussions, this course highlights the best practices for implementing and crafting effective global strategies
 <br>
 
 <br>
+<i>Technical Skills Learned:</i>
+<ul>
+<li>how to analyze global relations through public policy</li>
+<li>how to analyze global relations through societal policy</li>
+<li>how to analyze global relations through economic policy</li>
+<li>how to write an analysis of a variety of different course concepts</li>
+<li>how to use Stata to produce statistical data</li>
+</ul>
+<i>Professional Skills Learned:</i>
+<ul>
+<li>how to present an international topic to the Professor and other classmates</li>
+<li>how to present an analysis of different case studies</li>
+<li>how to write a research paper using proper citations and relevant data</li>
+<li>how to provide a peer review of different economic concepts</li>
+</ul>
 </details>
 
 <details>

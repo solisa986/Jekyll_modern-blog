@@ -76,7 +76,7 @@ This course serves to build off of the introductory topic explored in 'Intro to 
 <ul>
 <li>how to analyze and write intermediary graphs and economic equations</li>
 <li>how to distinguish between different types of economic graphs</li>
-<li>how to utilize GoogleMeets for class
+<li>how to utilize GoogleMeets for class</li>
 </ul>
 <i>Professional Skills Learned:</i>
 <ul>
@@ -163,7 +163,8 @@ _______________________________________________________________________________
 <details>
 <summary>Click here for more information: <b><u>Microeconomic Theory</u></b></summary>
 <br>
-course info.
+<b>Description:</b>
+This course builds off of the introductory concepts explored in Intro to Micro. In this course,
 <br>
 
 <br>

@@ -9,30 +9,226 @@ date:   12-05-2021
 
 ### Clubs
 
-international club
-women in business and economics
-allegheny esports
-allegheny student government proxy
-wind symphony member
+During my time at Allegheny, I was able to join a variety of clubs that contributed to my varied interests. For most of these clubs, I was a long-standing member, but there are a certain few that I was given the opportunity to become more than a member. For these clubs, I was elected to the board, where I was able to provide a variety of different events, meetings, and activities to the community at Allegheny. For more information on my role in the club, please click on the club name for more information :smile:.
+
+Clubs:
+<details>
+<summary>Click here for more information: <b><u>International Club at Allegheny</u></b></summary>
+<br>
+<b>Description:</b>
+past events:
+- international fashion show
+- international cooking event
+- meetings
+- open mic night
+upcoming:
+- international bazaar
+- international formal
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Women in Business and Economics</u></b></summary>
+<br>
+<b>Description:</b>
+past events:
+- open mic night/painting
+- meetings
+- social media
+upcoming events:
+- meeting with alumni
+- resume workshop
+- department mixer
+- open mic night
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Allegheny ESports</u></b></summary>
+<br>
+<b>Description:</b>
+position responsibiliies:
+- handle social media accounts
+- manage club websites
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Allegheny Student Government (Proxy Senator)</u></b></summary>
+<br>
+<b>Description:</b>
+position:
+- attend asg general meetings as needed
+- provide feedback on constituent concerns/needs
+- vote on matters presented to the cabinet of asg
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Pre-Law Club</u></b></summary>
+<br>
+<b>Description:</b>
+position:
+- handle emails
+- meetings
+- provide minutes
+- alumni meetings
+<br>
+
+<br>
+</details>
 
 ### Job Experiences
 
-internship fbol
-accounting internship (mom)
+Outside of Allegheny, I was able to have a variety of different work experiences. Though the following positions do not document the total amount of positions I have held, they are the positions that are most pertinent to my chosen field of studies.
+
+<details>
+<summary>Click here for more information: <b><u>GGL Lender Intern at First Bank of the Lake</u></b></summary>
+<br>
+<b>Description:</b>
+work info here.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Technical Leader for the Department of Computer Science at Allegheny College</u></b></summary>
+<br>
+<b>Description:</b>
+work info here.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Intern at Unlimited Cabinets and Doors</u></b></summary>
+<br>
+<b>Description:</b>
+work info here.
+<br>
+
+<br>
+</details>
 
 ### Professional Experiences
 
-econ games 2020-2021
-student chair in the finance and facilities committee
-women in economics symposium
-technical leader for the department of computer science
+Throughout my time at Allegheny, I was able to participate in a lot of different events and other experiences. These opportunities helped me to solidify my commitment to my respective majors, as well as allow me to be better involved in the community of professional individuals that I will be joining once I graduate. For more information on the information listed below, please click on the name of the event.
+
+<details>
+<summary>Click here for more information: <b><u>The Econ Games 2020-2021</u></b></summary>
+<br>
+<b>Description:</b>
+event info.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Finance and Facilities Committee - Student Representative</u></b></summary>
+<br>
+<b>Description:</b>
+committee info here.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Women in Economics Symposium</u></b></summary>
+<br>
+<b>Description:</b>
+event info here.
+<br>
+
+<br>
+</details>
 
 ### Awards and Scholarships
 
-hsf scholar
-band scholarship recipient
-accounting uil state medalist
+Due to my involvement in certain clubs and other activities, I was able to apply for different scholarships and interscholastic events. Though most of these awards and scholarships were awarded based on merit, the following were awarded through a rigorous selection process or through multiple competitions. For more information on each award or scholarship, please click on the name of the award.
+<details>
+<summary>Click here for more information: <b><u>HSF Scholar 2021-2022</u></b></summary>
+<br>
+<b>Description:</b>
+details here.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Band Scholarship - May 2019</u></b></summary>
+<br>
+<b>Description:</b>
+description here.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>UIL Texas State Medalist in Accounting - May 2019</u></b></summary>
+<br>
+<b>Description:</b>
+details here.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>UIL Texas State Participant for CX Debate - May 2019</u></b></summary>
+<br>
+<b>Description:</b>
+details here.
+<br>
+
+<br>
+</details>
 
 ### Outside Extracurricular Activities
 
-secretary of music & co-director for instruments for St. Matthew Church
+Outside of academic, club, and work involvements, I am able to participate in a lot of different activities. Though most of these activities involve my family, the couch, and a really good B-rated movie, I still find time for my other passions. Most of my outside passions center around one interest: music. For more information on the following positions, please click on the name of the position.
+
+<details>
+<summary><details>
+<summary>Click here for more information: <b><u>Secretary of Choirs for St. Matthew Church</u></b></summary>
+<br>
+<b>Description:</b>
+info here.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary>Click here for more information: <b><u>Co-Director of Musicians for St. Matthew's Church</u></b></summary>
+<br>
+<b>Description:</b>
+info here.
+<br>
+
+<br>
+</details>
+
+<details>
+<summary><details>
+<summary>Click here for more information: <b><u>Wind Symphony - Member</u></b></summary>
+<br>
+<b>Description:</b>
+info here.
+<br>
+
+<br>
+</details>

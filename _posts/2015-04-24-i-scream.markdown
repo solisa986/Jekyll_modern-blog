@@ -1,6 +1,6 @@
 ---
-title:  "Demos"
-subtitle: "Walkthroughs to accompany the Projects page"
+title:  "580 Stuff"
+subtitle: "Where I will add the lab walkthrough"
 author: "Adriana Solis"
 avatar: "img/authors/adriana.jpg"
 image: "img/c.jpg"
@@ -9,32 +9,4 @@ date:   12-07-2021
 
 ### Computer Science Project Demos
 
-This page shows the walkthroughs for my different projects. Feel free to look at the Projects page for an in-depth explanation of the different features/programs!
-
-### GatorMiner - Frequency Analysis Word Cloud & Frequencies of Categories of Words
-
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-<iframe src="https://onedrive.live.com/embed?cid=7776C9D269D98AC7&amp;resid=7776C9D269D98AC7%21175853&amp;authkey=AFFqYJ13Mf3H_eU&amp;em=2&amp;wdAr=1.7777777777777777" width="700px" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-</div>
-
-### GatorMiner - Pytest Plugin
-
-
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-<iframe src="https://onedrive.live.com/embed?cid=7776C9D269D98AC7&amp;resid=7776C9D269D98AC7%21175883&amp;authkey=AMb8LWlxvk188ec&amp;em=2&amp;wdAr=1.7777777777777777" width="700px" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-</div>
-
-### Final Project - "Cipher for Spies"
-
-<style>
-.responsive-wrap iframe{ max-width: 100%;}
-</style>
-<div class="responsive-wrap">
-<iframe src="https://onedrive.live.com/embed?cid=7776C9D269D98AC7&amp;resid=7776C9D269D98AC7%21175931&amp;authkey=ADAQ2-LHL-iToMg&amp;em=2&amp;wdAr=1.7777777777777777" width="700px" height="500px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-</div>
+This is where I will add the lab walkthrough once I finish it.

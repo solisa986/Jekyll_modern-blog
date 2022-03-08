@@ -8,7 +8,7 @@ date:   12-06-2021
 ---
 
 ### Computer Science Projects
-This page will provide an in-depth description of the different projects I have worked on and contributed to during my time at Allegheny College. Make sure to check out the demos page for a slide-by-slide demonstration of the different projects!
+This page will provide an in-depth description of the different projects I have worked on and contributed to during my time at Allegheny College.
 
 <details>
 <summary>Click for more information: <b><u>GatorMiner</u></b></summary>
@@ -25,7 +25,7 @@ This feature, which was written in Python, was added to GatorMiner through the i
 <br>
 
 <br>
-For a walkthrough of what <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/85"><b>this feature</b></a> does, make sure to check out the demos page!
+Click on <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/85"><b>this feature</b></a> to access the GitHub repository!
 <br>
 
 <br>
@@ -38,7 +38,7 @@ This feature, written in Python, was also added to GatorMiner through the implem
 <br>
 
 <br>
-For a walkthrough of what <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/51"><b>this feature</b></a> does, make sure to check out the demos page!
+Click on <a href="https://github.com/Allegheny-Ethical-CS/GatorMiner/issues/51"><b>this feature</b></a> to access the GitHub repository!
 <br>
 
 <br>
@@ -55,7 +55,7 @@ For the last project of my Software Engineering course, we were tasked with a va
 <br>
 
 <br>
-For a walkthrough of what <a href="https://github.com/allegheny-computer-science-203-s2021/PytestPlugin-Team7"><b>this feature</b></a> does, make sure to check out the demos page!
+Click on <a href="https://github.com/allegheny-computer-science-203-s2021/PytestPlugin-Team7"><b>this feature</b></a> to access the GitHub repository!
 <br>
 
 <br>
@@ -73,7 +73,7 @@ For my final project for Data Abstraction, my group decided to create a program 
 
 <br>
 
-For a walkthrough of what <a href="https://github.com/allegheny-computer-science-101-f2020/project-crew"><b>this program</b></a> does, make sure to check out the demos page!
+Click on <a href="https://github.com/allegheny-computer-science-101-f2020/project-crew"><b>this program</b></a> to access the GitHub repository!
 <br>
 
 <br>
